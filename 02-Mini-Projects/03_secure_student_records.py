@@ -7,7 +7,7 @@
 Password = "0000"
 Students_dictionary = [{'Name': "Mai", 'Grade': 100},
                        {'Name': "Ahmad", 'Grade': 80}]
-logedin = False
+logedin = False 
 while True:
     entered_password = str(input("Enter the password"))
     if entered_password == Password:
