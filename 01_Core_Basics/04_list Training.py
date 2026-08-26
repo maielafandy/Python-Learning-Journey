@@ -6,7 +6,7 @@ task.append("Read")
 
 for index, name in enumerate(task):
     print(f"{index+1}-{name}")
-
+ 
 print(f"the length of the list is {len(task)}")
 task_num = int(input("Enter task to delet"))
 index = task_num-1
