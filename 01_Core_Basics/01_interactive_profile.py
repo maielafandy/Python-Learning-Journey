@@ -2,7 +2,7 @@
 # This file is for learning
 # creator: Mai Mohamed
 # creation date : 5/28/2026
-# ---------------------------------
+# --------------------------------- 
 
 Name = input("enter your name\n")
 Age = input("enter your age\n")
