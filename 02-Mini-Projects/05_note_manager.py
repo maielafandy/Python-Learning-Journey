@@ -10,7 +10,7 @@ def menu():
         print("invalid choice")
 
 
-def clear():
+def clear(): 
     with open("note.txt", "w") as f:
         f.write(" "+"\n")
 
