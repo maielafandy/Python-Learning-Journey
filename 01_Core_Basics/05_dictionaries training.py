@@ -5,7 +5,7 @@ students = [
     {'Name': "Mai", 'grade': 100}
 ]
 
-print("------------------------------------")
+print("------------------------------------") 
 
 for index, student in enumerate(students):
     print(f"{index+1}-{student['Name']}")
