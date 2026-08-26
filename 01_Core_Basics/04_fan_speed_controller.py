@@ -1,8 +1,8 @@
 # ---------------------------------
 # This file is for learning
 # creator: Mai Mohamed
-# creation date : 5/30/2026
-# ---------------------------------
+# creation date: 5/30/2026
+# --------------------------------- 
 
 while True:
     Temperature_input = input(
