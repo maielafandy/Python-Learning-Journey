@@ -3,7 +3,7 @@
 # creator: Mai Mohamed
 # creation date : 5/28/2026
 # ---------------------------------
-while True:
+while True: 
 
     # Getting the inputs
     First_Num = input("Enter first number (or type exit):\n ")
