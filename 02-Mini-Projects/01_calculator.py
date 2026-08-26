@@ -20,7 +20,7 @@ def devision(first_Num, second_Num):
 
 def multiplication(first_Num, second_Num):
 
-    return first_Num*Second_Num
+    return first_Num*second_Num
 
 
 def subtraction(first_Num, second_Num):
