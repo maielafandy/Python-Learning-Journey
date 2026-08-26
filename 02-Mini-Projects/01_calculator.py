@@ -9,7 +9,7 @@ def add(first_Num, second_Num):
     return first_Num+second_Num
 
 
-def devision(first_Num, second_Num):
+def devision(first_Num, second_Num): 
 
     if second_Num == 0:
         print("invaild operation")
